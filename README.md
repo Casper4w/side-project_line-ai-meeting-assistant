@@ -31,7 +31,7 @@
 ## 🔑 階段一：準備 4 把關鍵金鑰
 請依序取得以下資訊並記錄於記事本中：
 
-### 1. LINE_TOKEN (詳細圖解步驟)
+### 1. LINE_TOKEN (操作步驟)
 * **登入後台**：前往 [LINE Developers Console](https://developers.line.biz/)。
 * **建立提供者 (Provider)**：點擊「Create」，輸入一個名稱（例如：`My-Automation-Tools`）。
 * **建立通道 (Channel)**：
